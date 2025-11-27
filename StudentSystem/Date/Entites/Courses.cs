@@ -1,7 +1,8 @@
-﻿using System;
+﻿using Humanizer.Localisation;
+using StudentSystem.Date.Entites;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using Humanizer.Localisation;
 
 namespace StudentSystem.Data.Models
 {
@@ -20,10 +21,10 @@ namespace StudentSystem.Data.Models
 
         public decimal Price { get; set; }
 
-        public ICollection<Resource> Resources { get; set; } = new HashSet<Resource>();
+        public ICollection<Resources> Resources { get; set; } = new HashSet<Resources>();
 
-        public ICollection<Homework> Homeworks { get; set; } = new HashSet<Homework>();
+        public ICollection<HomeworkSubmissions> Homeworks { get; set; } = new HashSet<HomeworkSubmissions>();
 
-        public ICollection<StudentCourse> StudentsEnrolled { get; set; } = new HashSet<StudentCourse>();
+        public ICollection<Students> StudentsEnrolled { get; set; } = new HashSet<Students>();
     }
 }

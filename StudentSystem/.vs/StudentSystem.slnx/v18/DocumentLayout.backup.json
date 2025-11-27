@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\configration\\seeddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:configration\\seeddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SeedDate.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Configration\\SeedDate.cs",
+              "RelativeDocumentMoniker": "Configration\\SeedDate.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Configration\\SeedDate.cs",
+              "RelativeToolTip": "Configration\\SeedDate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T06:51:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T06:36:56.156Z",
               "EditorCaption": ""

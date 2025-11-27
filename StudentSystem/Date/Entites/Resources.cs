@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StudentSystem.Date.Entites.Enum;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;

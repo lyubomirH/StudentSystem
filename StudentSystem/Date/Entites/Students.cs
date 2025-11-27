@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
+using StudentSystem.Data.Models;
 
 namespace StudentSystem
 {
@@ -17,7 +18,7 @@ namespace StudentSystem
         public string PhoneNumber { get; set; }
         public DateTime RegisteredOn { get; set; }
         public DateTime? Birthday { get; set; }
-        public ICollection<StudentCourse> CourseEnrollments { get; set; }
-        public ICollection<Homework> HomeworkSubmissions { get; set; }
+        public ICollection<Students> CourseEnrollments { get; set; }
+        public ICollection<HomeworkSubmissions> HomeworkSubmissions { get; set; }
     }
 }

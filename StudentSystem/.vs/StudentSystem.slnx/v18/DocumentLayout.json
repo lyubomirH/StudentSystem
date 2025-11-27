@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\configration\\seeddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:configration\\seeddate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Date\\Entites\\Courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Configration\\SeedDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Configration\\SeedDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Courses.cs",
+              "RelativeDocumentMoniker": "Date\\Entites\\Courses.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Courses.cs",
+              "RelativeToolTip": "Date\\Entites\\Courses.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:51:10.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SeedDate.cs",
               "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Configration\\SeedDate.cs",
               "RelativeDocumentMoniker": "Configration\\SeedDate.cs",
               "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Configration\\SeedDate.cs",
               "RelativeToolTip": "Configration\\SeedDate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T06:51:11.641Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -55,8 +72,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-27T06:36:56.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-27T06:36:56.156Z"
             }
           ]
         }

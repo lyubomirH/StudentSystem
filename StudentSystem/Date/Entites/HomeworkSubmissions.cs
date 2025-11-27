@@ -15,7 +15,7 @@ namespace StudentSystem.Data.Models
 
         public int StudentId { get; set; }
 
-        public Student Student { get; set; } = null!;
+        public Students Student { get; set; } = null!;
 
         public int CourseId { get; set; }
 

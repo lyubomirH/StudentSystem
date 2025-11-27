@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\enum\\resourcesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\enum\\resourcesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\resources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\homeworksubmissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\homeworksubmissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\enum\\resourcesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\enum\\resourcesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|c:\\users\\lyubo\\desktop\\luybcho\\\u0438\u0442\\c#\\github\\studentsystem\\studentsystem\\date\\entites\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C37F96AA-CE81-A48B-0728-07CBC5FAC89F}|StudentSystem.csproj|solutionrelative:date\\entites\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +34,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "Date\\Entites\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\StudentSystemContext.cs",
+              "RelativeToolTip": "Date\\Entites\\StudentSystemContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAwwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:57:13.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Students.cs",
+              "RelativeDocumentMoniker": "Date\\Entites\\Students.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Students.cs",
+              "RelativeToolTip": "Date\\Entites\\Students.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:55:59.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeworkSubmissions.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\HomeworkSubmissions.cs",
+              "RelativeDocumentMoniker": "Date\\Entites\\HomeworkSubmissions.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\HomeworkSubmissions.cs",
+              "RelativeToolTip": "Date\\Entites\\HomeworkSubmissions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:55:41.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Courses.cs",
+              "RelativeDocumentMoniker": "Date\\Entites\\Courses.cs",
+              "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Courses.cs",
+              "RelativeToolTip": "Date\\Entites\\Courses.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wBsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T07:52:33.527Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ResourcesEnum.cs",
               "DocumentMoniker": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Enum\\ResourcesEnum.cs",
               "RelativeDocumentMoniker": "Date\\Entites\\Enum\\ResourcesEnum.cs",
               "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Enum\\ResourcesEnum.cs",
               "RelativeToolTip": "Date\\Entites\\Enum\\ResourcesEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T07:44:07.029Z",
               "EditorCaption": ""
@@ -45,7 +113,7 @@
               "RelativeDocumentMoniker": "Date\\Entites\\Resources.cs",
               "ToolTip": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\\u0418\u0422\\C#\\github\\StudentSystem\\StudentSystem\\Date\\Entites\\Resources.cs",
               "RelativeToolTip": "Date\\Entites\\Resources.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-27T07:43:26.171Z",
               "EditorCaption": ""
