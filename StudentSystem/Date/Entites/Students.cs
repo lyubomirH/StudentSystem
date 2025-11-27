@@ -1,24 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
 using StudentSystem.Data.Models;
 
-namespace StudentSystem
+namespace StudentSystem.Data.Models
 {
     public class Students
     {
-
         [Key]
         public int StudentId { get; set; }
-        public string Name { get; set; }
-        public string PhoneNumber { get; set; }
+
+        [Required]
+        [MaxLength(100)]
+        public string Name { get; set; } = null!;
+
+        [MaxLength(10)]
+        public string? PhoneNumber { get; set; }
+
+        [Required]
         public DateTime RegisteredOn { get; set; }
+
         public DateTime? Birthday { get; set; }
-        public ICollection<Students> CourseEnrollments { get; set; }
-        public ICollection<HomeworkSubmissions> HomeworkSubmissions { get; set; }
+
+        public ICollection<Course> CourseEnrollments { get; set; } = new List<Course>();
+        public ICollection<HomeworkSubmissions> HomeworkSubmissions { get; set; } = new List<HomeworkSubmissions>();
     }
 }

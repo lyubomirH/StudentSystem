@@ -1,12 +1,8 @@
 ﻿using StudentSystem.Date.Entites.Enum;
-using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using StudentSystem.Data.Models;
 
-namespace StudentSystem.Date.Entites
+namespace StudentSystem.Data.Models
 {
     public class Resources
     {
@@ -14,12 +10,18 @@ namespace StudentSystem.Date.Entites
         public int ResourcesId { get; set; }
 
         [Required]
-        public string Name { get; set; }
+        [MaxLength(50)]
+        public string Name { get; set; } = null!;
+
         [Required]
-        public string Url { get; set; }
+        public string Url { get; set; } = null!;
+
         [Required]
         public ResourcesEnum ResourceType { get; set; }
+
         [Required]
         public int CourseId { get; set; }
+
+        public Course Course { get; set; } = null!;
     }
 }

@@ -3882,11 +3882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem\\StudentSystem.csproj",
+      "projectUniqueName": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem (1)\\StudentSystem.csproj",
       "projectName": "StudentSystem",
-      "projectPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem\\StudentSystem.csproj",
+      "projectPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem (1)\\StudentSystem.csproj",
       "packagesPath": "C:\\Users\\lyubo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem\\obj\\",
+      "outputPath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem (1)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

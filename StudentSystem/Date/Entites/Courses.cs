@@ -1,4 +1,4 @@
-﻿using Humanizer.Localisation;
+﻿
 using StudentSystem.Date.Entites;
 using System;
 using System.Collections.Generic;
@@ -8,6 +8,7 @@ namespace StudentSystem.Data.Models
 {
     public class Course
     {
+        [Key]
         public int CourseId { get; set; }
 
         [MaxLength(80)]
@@ -21,10 +22,10 @@ namespace StudentSystem.Data.Models
 
         public decimal Price { get; set; }
 
-        public ICollection<Resources> Resources { get; set; } = new HashSet<Resources>();
+        public ICollection<Resources> Resources { get; set; } = new List<Resources>();
 
-        public ICollection<HomeworkSubmissions> Homeworks { get; set; } = new HashSet<HomeworkSubmissions>();
+        public ICollection<HomeworkSubmissions> Homeworks { get; set; } = new List<HomeworkSubmissions>();
 
-        public ICollection<Students> StudentsEnrolled { get; set; } = new HashSet<Students>();
+        public ICollection<Students> StudentsEnrolled { get; set; } = new List<Students>();
     }
 }
