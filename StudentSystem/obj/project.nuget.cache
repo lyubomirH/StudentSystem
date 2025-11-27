@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zFpRwEGOyGo=",
+  "dgSpecHash": "1vQvpOxv6us=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem (1)\\StudentSystem.csproj",
+  "projectFilePath": "C:\\Users\\lyubo\\Desktop\\LUYBCHO\\ИТ\\C#\\github\\StudentSystem\\StudentSystem\\StudentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lyubo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\lyubo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

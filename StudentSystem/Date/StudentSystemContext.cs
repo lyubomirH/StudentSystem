@@ -17,7 +17,7 @@ namespace StudentSystem.Date.Entites
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=localhost,1433;Database=GameChatNetwork;User Id=sa;Password=SuperStrongPass!23;TrustServerCertificate=true;");
+            optionsBuilder.UseSqlServer("Server=localhost,1433;Database=StudentsSystem;User Id=sa;Password=SuperStrongPass!23;TrustServerCertificate=true;");
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
